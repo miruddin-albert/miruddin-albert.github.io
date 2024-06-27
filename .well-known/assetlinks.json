@@ -1,0 +1,11 @@
+[
+  {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.meetalbert.dev",
+          "sha256_cert_fingerprints":
+              ["FE:C6:DF:FA:FE:6E:1B:9A:55:D0:87:15:50:20:95:F6:7F:C3:71:92:07:14:96:50:60:77:AD:8B:54:D8:19:60"]
+      }
+  }
+]
