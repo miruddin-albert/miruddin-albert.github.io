@@ -3,10 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "JQ7ZULM2NM.com.albert.rn",
+        "appID": "JQ7ZULM2NM.com.albert.Albert",
         "paths": [
           "/integrations/plaid/oauth",
-          "/apply"
+          "/apply/*"
         ],
         "components": [
           {
@@ -21,7 +21,7 @@
   },
   "webcredentials": {
     "apps": [
-      "JQ7ZULM2NM.com.albert.rn"
+      "JQ7ZULM2NM.com.albert.Albert"
     ]
   }
 }
