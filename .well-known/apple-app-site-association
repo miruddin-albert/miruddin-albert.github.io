@@ -6,7 +6,7 @@
         "appID": "JQ7ZULM2NM.com.albert.Albert",
         "paths": [
           "/integrations/plaid/oauth",
-          "/apply",
+          "/apply"
         ],
         "components": [
           {
