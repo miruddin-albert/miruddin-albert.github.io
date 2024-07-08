@@ -6,18 +6,14 @@
         "appID": "JQ7ZULM2NM.com.albert.Albert",
         "paths": [
           "/integrations/plaid/oauth",
-          "/signup",
-          "/about"
+          "/apply",
         ],
         "components": [
           {
             "/": "/integrations/plaid/oauth"
           },
           {
-            "/": "/signup"
-          },
-          {
-            "/": "/about"
+            "/": "/apply/*"
           }
         ]
       }
