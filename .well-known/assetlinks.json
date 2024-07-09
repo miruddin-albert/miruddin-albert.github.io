@@ -6,5 +6,13 @@
       "package_name": "com.meetalbert.dev",
       "sha256_cert_fingerprints": ["FE:C6:DF:FA:FE:6E:1B:9A:55:D0:87:15:50:20:95:F6:7F:C3:71:92:07:14:96:50:60:77:AD:8B:54:D8:19:60"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.meetalbert",
+      "sha256_cert_fingerprints": ["F3:A0:2F:D7:60:F5:49:C3:4E:E0:F9:C9:B3:0B:7A:C4:8A:AA:CA:FE:0B:D7:3B:63:83:5F:5E:74:C1:B3:74:FE"]
+    }
   }
 ]
