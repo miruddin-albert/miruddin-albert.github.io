@@ -12,7 +12,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.meetalbert",
-      "sha256_cert_fingerprints": ["F3:A0:2F:D7:60:F5:49:C3:4E:E0:F9:C9:B3:0B:7A:C4:8A:AA:CA:FE:0B:D7:3B:63:83:5F:5E:74:C1:B3:74:FE"]
+      "sha256_cert_fingerprints": ["F3:A0:2F:D7:60:F5:49:C3:4E:E0:F9:C9:B3:0B:7A:C4:8A:AA:CA:FE:0B:D7:3B:63:83:5F:5E:74:C1:B3:74:FE",
+      "5C:A2:B3:3E:3D:97:B0:5D:84:A1:D2:12:CB:5D:63:8A:69:C6:0E:90:36:27:D2:B9:F0:C2:D8:81:F6:FE:BC:7F"]
     }
   }
 ]
